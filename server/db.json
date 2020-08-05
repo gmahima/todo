@@ -1,3 +1,19 @@
 {
-  "tasks": []
+  "tasks": [
+    {
+      "name": "eat ice cream",
+      "id": "0eat ice cream",
+      "checked": true
+    },
+    {
+      "name": "play",
+      "id": "1play",
+      "checked": true
+    },
+    {
+      "name": "have fun",
+      "id": "2have fun",
+      "checked": true
+    }
+  ]
 }
