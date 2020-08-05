@@ -2,7 +2,19 @@
     "tasks": [
       {
         "id": 1,
-        "name": "",
+        "name": "read a book",
+        "checked": true
+
+      }, 
+      {
+        "id": 2,
+        "name": "have lunch",
+        "checked": false
+
+      },
+      {
+        "id": 3,
+        "name": "clean my room",
         "checked": false
 
       }
